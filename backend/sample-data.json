@@ -1,0 +1,30 @@
+[
+    {
+      "name": "Smartphone X",
+      "type": "Electronics",
+      "specifications": [
+        { "spec": "Screen Size", "value": "6.5 inches" },
+        { "spec": "Battery", "value": "4000 mAh" },
+        { "spec": "Camera", "value": "48 MP" }
+      ],
+      "make": "TechCorp",
+      "model": "SM-X2023",
+      "price": "$999",
+      "source": "https://example.com/smartphone-x",
+      "vintage": "2023 (1 year old, last updated 2023-08-15)"
+    },
+    {
+      "name": "Laptop Pro",
+      "type": "Electronics",
+      "specifications": [
+        { "spec": "CPU", "value": "Intel i7" },
+        { "spec": "RAM", "value": "16 GB" },
+        { "spec": "Storage", "value": "512 GB SSD" }
+      ],
+      "make": "CompTech",
+      "model": "LT-P2022",
+      "price": "€1499",
+      "source": "https://example.com/laptop-pro",
+      "vintage": "2022 (2 years old, last updated 2022-11-30)"
+    }
+  ]
